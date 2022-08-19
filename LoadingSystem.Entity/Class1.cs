@@ -8,5 +8,6 @@ namespace LoadingSystem.Entity
 {
     public class Class1
     {
+
     }
 }
